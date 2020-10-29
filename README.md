@@ -13,7 +13,7 @@
 ![4](https://user-images.githubusercontent.com/71052252/97547793-e2bf3200-1993-11eb-8f7c-df6a0233950c.png)
 ![5](https://user-images.githubusercontent.com/71052252/97547796-e357c880-1993-11eb-91ed-bdd4224f2d3a.png)
 
-#### Posteriormente, Mostraremos el contenido de la lista con la opcióon 3.- Mostrar los datos de la lista.
+#### Posteriormente, Mostraremos el contenido de la lista con la opción 3.- Mostrar los datos de la lista.
 ![6](https://user-images.githubusercontent.com/71052252/97547797-e357c880-1993-11eb-99f9-6c6ecc46a5a2.png)
 ![7](https://user-images.githubusercontent.com/71052252/97547798-e357c880-1993-11eb-8adf-b46f42a0ba6c.png)
 
